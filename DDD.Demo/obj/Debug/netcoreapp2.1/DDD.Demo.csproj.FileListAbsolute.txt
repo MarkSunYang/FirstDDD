@@ -1,0 +1,11 @@
+F:\Project\VsProject\DDD.Layer\DDD.Demo\bin\Debug\netcoreapp2.1\DDD.Demo.deps.json
+F:\Project\VsProject\DDD.Layer\DDD.Demo\bin\Debug\netcoreapp2.1\DDD.Demo.runtimeconfig.json
+F:\Project\VsProject\DDD.Layer\DDD.Demo\bin\Debug\netcoreapp2.1\DDD.Demo.runtimeconfig.dev.json
+F:\Project\VsProject\DDD.Layer\DDD.Demo\bin\Debug\netcoreapp2.1\DDD.Demo.dll
+F:\Project\VsProject\DDD.Layer\DDD.Demo\bin\Debug\netcoreapp2.1\DDD.Demo.pdb
+F:\Project\VsProject\DDD.Layer\DDD.Demo\obj\Debug\netcoreapp2.1\DDD.Demo.csprojAssemblyReference.cache
+F:\Project\VsProject\DDD.Layer\DDD.Demo\obj\Debug\netcoreapp2.1\DDD.Demo.csproj.CoreCompileInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.Demo\obj\Debug\netcoreapp2.1\DDD.Demo.AssemblyInfoInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.Demo\obj\Debug\netcoreapp2.1\DDD.Demo.AssemblyInfo.cs
+F:\Project\VsProject\DDD.Layer\DDD.Demo\obj\Debug\netcoreapp2.1\DDD.Demo.dll
+F:\Project\VsProject\DDD.Layer\DDD.Demo\obj\Debug\netcoreapp2.1\DDD.Demo.pdb

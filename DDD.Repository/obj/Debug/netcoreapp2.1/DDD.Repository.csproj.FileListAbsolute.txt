@@ -1,0 +1,6 @@
+F:\Project\VsProject\DDD.Layer\DDD.Repository\bin\Debug\netcoreapp2.1\DDD.Repository.deps.json
+F:\Project\VsProject\DDD.Layer\DDD.Repository\bin\Debug\netcoreapp2.1\DDD.Repository.dll
+F:\Project\VsProject\DDD.Layer\DDD.Repository\obj\Debug\netcoreapp2.1\DDD.Repository.csprojAssemblyReference.cache
+F:\Project\VsProject\DDD.Layer\DDD.Repository\obj\Debug\netcoreapp2.1\DDD.Repository.csproj.CoreCompileInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.Repository\obj\Debug\netcoreapp2.1\DDD.Repository.AssemblyInfoInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.Repository\obj\Debug\netcoreapp2.1\DDD.Repository.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\bin\Debug\netcoreapp2.0\DDD.BookWeb.deps.json
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\bin\Debug\netcoreapp2.0\DDD.BookWeb.runtimeconfig.json
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\bin\Debug\netcoreapp2.0\DDD.BookWeb.runtimeconfig.dev.json
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\bin\Debug\netcoreapp2.0\DDD.BookWeb.dll
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\bin\Debug\netcoreapp2.0\DDD.BookWeb.pdb
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\obj\Debug\netcoreapp2.0\DDD.BookWeb.csprojAssemblyReference.cache
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\obj\Debug\netcoreapp2.0\DDD.BookWeb.csproj.CoreCompileInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\obj\Debug\netcoreapp2.0\DDD.BookWeb.AssemblyInfoInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\obj\Debug\netcoreapp2.0\DDD.BookWeb.AssemblyInfo.cs
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\obj\Debug\netcoreapp2.0\DDD.BookWeb.dll
+F:\Project\VsProject\DDD.Layer\DDD.BookWeb\obj\Debug\netcoreapp2.0\DDD.BookWeb.pdb

@@ -1,0 +1,9 @@
+F:\Project\VsProject\DDD.Layer\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.deps.json
+F:\Project\VsProject\DDD.Layer\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.dll
+F:\Project\VsProject\DDD.Layer\DDD.Application\bin\Debug\netcoreapp2.1\DDD.Application.pdb
+F:\Project\VsProject\DDD.Layer\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csprojAssemblyReference.cache
+F:\Project\VsProject\DDD.Layer\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.csproj.CoreCompileInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfoInputs.cache
+F:\Project\VsProject\DDD.Layer\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.AssemblyInfo.cs
+F:\Project\VsProject\DDD.Layer\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.dll
+F:\Project\VsProject\DDD.Layer\DDD.Application\obj\Debug\netcoreapp2.1\DDD.Application.pdb
