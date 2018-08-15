@@ -7,3 +7,6 @@ F:\Project\VsProject\DDD.Layer\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.Ass
 F:\Project\VsProject\DDD.Layer\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.AssemblyInfo.cs
 F:\Project\VsProject\DDD.Layer\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.dll
 F:\Project\VsProject\DDD.Layer\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.pdb
+F:\Project\VsProject\DDD.Layer\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Infrastructure.dll
+F:\Project\VsProject\DDD.Layer\DDD.Domain\bin\Debug\netcoreapp2.1\DDD.Infrastructure.pdb
+F:\Project\VsProject\DDD.Layer\DDD.Domain\obj\Debug\netcoreapp2.1\DDD.Domain.csproj.CopyComplete

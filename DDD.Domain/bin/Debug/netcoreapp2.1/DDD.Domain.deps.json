@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "DDD.Domain/1.0.0": {
+        "dependencies": {
+          "DDD.Infrastructure": "1.0.0"
+        },
         "runtime": {
           "DDD.Domain.dll": {}
+        }
+      },
+      "DDD.Infrastructure/1.0.0": {
+        "runtime": {
+          "DDD.Infrastructure.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDD.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
